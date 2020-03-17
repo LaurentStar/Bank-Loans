@@ -8,7 +8,7 @@ Using banking data from Wells Fargo to develop tools that will help Wells Fargo 
 
 - [Read Me](https://github.com/LaurentStar/mod_5_project/blob/master/README.md) - Contains information of the project
 
--[Classification](https://github.com/LaurentStar/mod_5_project/blob/master/classification.ipynb) - Contains all of the models that were used, along with visuals of our results
+- [Classification](https://github.com/LaurentStar/mod_5_project/blob/master/classification.ipynb) - Contains all of the models that were used, along with visuals of our results
 
 - [Data Cleaning](https://github.com/LaurentStar/mod_5_project/blob/master/data_cleaning.ipynb) - Shows how the data was cleaned
 
