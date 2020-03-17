@@ -31,6 +31,7 @@ Using banking data from Wells Fargo to develop tools that will help Wells Fargo 
   - Feature Extraction
   - Classification
   - Presentation
+  - Data Cleaning
 
 [Zaki Jefferson](https://github.com/jeffersonzaki)
   - Exploratory Analysis
