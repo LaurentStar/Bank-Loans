@@ -6,15 +6,24 @@ import numpy as np
 data = os.path.join('Data', 'bank.csv')  # Safely getting data using os
 bank_df = pd.read_csv(data)
 
+# ----------------------Preparing Data--------------------------
+
 # Changing column names to be more suitable
 bank_df.columns = bank_df.columns.str.replace(' ', '_')
+
+# Dropping Features
+bank_df.drop(columns=["Loan_ID", "Customer_ID"], inplace=True)
 
 # Dropping missing values
 bank_df.dropna(inplace=True)
 
+irregular_values = bank_df.loc[bank_df.Current_Loan_Amount == 99_999_999.0].index  # This high value might be represented as a NaN
+bank_df.drop(index=irregular_values, inplace=True)
+
 # Resting Index
 bank_df.reset_index(drop=True, inplace=True)
 
+# ---------------------------------------------------------------
 
 def feature_extract_mean_count_median(df, columns, target, return_trig=[True, True, True]):
     """
