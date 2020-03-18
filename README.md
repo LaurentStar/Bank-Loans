@@ -24,7 +24,7 @@ Using banking data from Wells Fargo to develop tools that will help Wells Fargo 
 - [Zaki Jefferson](https://github.com/jeffersonzaki)
 
 ## Project Scenario
-
+Our client, Wells Fargo, is an international bank that gives loans to their customers. Before Wells Fargo can give a customer a loan approval, they must base their acceptance on a number of factors provided by that customer. Just like all banks, Wells Fargo has problems with loan defaulters and would like to lower said likelyhood by knowing which factors in their loan approval checks do loan defaulters have in common.
 
 ## Responsibilities
 [Laurent Mundell](https://github.com/LaurentStar)
