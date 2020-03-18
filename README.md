@@ -18,6 +18,8 @@ Using banking data from Wells Fargo to develop tools that will help Wells Fargo 
 
 - [Feature Extraction](https://github.com/LaurentStar/mod_5_project/blob/master/feature_extraction.ipynb) - Contains a deeper learning into the data's features
 
+- [Principal Analysis Component](https://github.com/LaurentStar/mod_5_project/blob/master/principal_analysis_component.ipynb) - Contains featutre reduction to improve model
+
 ## Project Members
 - [Laurent Mundell](https://github.com/LaurentStar)
 
