@@ -32,3 +32,4 @@ _ = clean_df.loc[clean_df['Current_Loan_Amount'] >= 99999999.0].index
 clean_df.drop(index=_, inplace=True)
 
 clean_df.drop(['Loan_ID', 'Customer_ID'], axis=1, inplace=True)
+

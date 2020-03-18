@@ -50,3 +50,5 @@ def fillna_average_by_target_column(row, avg_dict, target_col, effected_col):
         pass #row[effected_col] = "???"
         
     return row
+	
+	
