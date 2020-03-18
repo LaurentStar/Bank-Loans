@@ -6,6 +6,8 @@ Using banking data from Wells Fargo to develop tools that will help Wells Fargo 
 
 - [Python Scripts](https://github.com/LaurentStar/mod_5_project/tree/master/Scripts) - Contains constants/variables and methods that helps cleans the data
 
+- [Presentation](https://github.com/LaurentStar/mod_5_project/blob/master/Loan%20Status%20Presentation.pdf) - A non-technical slideshow of our findings
+
 - [Read Me](https://github.com/LaurentStar/mod_5_project/blob/master/README.md) - Contains information of the project
 
 - [Classification](https://github.com/LaurentStar/mod_5_project/blob/master/classification.ipynb) - Contains all of the models that were used, along with visuals of our results
