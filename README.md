@@ -38,6 +38,7 @@ Our client, Wells Fargo, is an international bank that gives loans to their cust
   - Data Cleaning
   - Data Preparation
   - Notebook Cleaning
+  - Classification
 
 ## Data
 - [Kaggle](https://www.kaggle.com/zaurbegiev/my-dataset#credit_train.csv)
