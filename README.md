@@ -31,7 +31,8 @@ Our client, Wells Fargo, is an international bank that gives loans to their cust
   - Feature Extraction
   - Classification
   - Presentation
-
+  - Data Cleaning
+    
 [Zaki Jefferson](https://github.com/jeffersonzaki)
   - Exploratory Analysis
   - Data Cleaning
